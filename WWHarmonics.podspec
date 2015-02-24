@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "A library used to simply the calulations for musical notation"
   s.description      = <<-DESC
-                       A library used to simply the calulations for musical notation
+                       This library gives the user the ability to create musical scales, notes, and other constructs using a simple API.
                        DESC
   s.homepage         = "https://github.com/willseward/WWHarmonics.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
