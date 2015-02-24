@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'WWHarmonics', :exclusive => true do
+  pod "WWHarmonics", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "WWHarmonics", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end
