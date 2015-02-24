@@ -24,5 +24,5 @@ Wills Ward, wward@willworks.net
 
 ## License
 
-WWHarmonics is available under the MIT license. See the LICENSE file for more info.
+WWHarmonics is available under the GPAL v3 license. See the LICENSE file for more info.
 
