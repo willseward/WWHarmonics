@@ -7,6 +7,7 @@
 //
 
 #import "WWAppDelegate.h"
+#import <WWHarmonics/WWHarmonics.h>
 
 @implementation WWAppDelegate
 
