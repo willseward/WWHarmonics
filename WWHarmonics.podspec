@@ -10,12 +10,9 @@
 Pod::Spec.new do |s|
   s.name             = "WWHarmonics"
   s.version          = "0.1.0"
-  s.summary          = "A short description of WWHarmonics."
+  s.summary          = "A library used to simply the calulations for musical notation"
   s.description      = <<-DESC
-                       An optional longer description of WWHarmonics
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       A library used to simply the calulations for musical notation
                        DESC
   s.homepage         = "https://github.com/willseward/WWHarmonics.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
