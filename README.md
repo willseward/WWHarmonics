@@ -1,6 +1,6 @@
 # WWHarmonics
 
-[![CI Status](http://img.shields.io/travis/Wills Ward/WWHarmonics.svg?style=flat)](https://travis-ci.org/Wills Ward/WWHarmonics)
+[![CI Status](http://img.shields.io/travis/willseward/WWHarmonics.svg?style=flat)](https://travis-ci.org/willseward/WWHarmonics)
 [![Version](https://img.shields.io/cocoapods/v/WWHarmonics.svg?style=flat)](http://cocoadocs.org/docsets/WWHarmonics)
 [![License](https://img.shields.io/cocoapods/l/WWHarmonics.svg?style=flat)](http://cocoadocs.org/docsets/WWHarmonics)
 [![Platform](https://img.shields.io/cocoapods/p/WWHarmonics.svg?style=flat)](http://cocoadocs.org/docsets/WWHarmonics)
@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Wills Ward, wward@willworks.net
+Wills Ward, wward@warddevelopment.net
 
 ## License
 
